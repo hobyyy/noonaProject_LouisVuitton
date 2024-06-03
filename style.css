@@ -1,0 +1,51 @@
+.nav-button {
+  color: chocolate;
+  border: 1px solid chocolate;
+}
+.nav-button:hover {
+  background-color: chocolate;
+  border: 1px solid chocolate;
+}
+
+.main-image {
+  width: 100vw;
+}
+.main-headline-container {
+  height: 120px;
+  margin: 3rem 0;
+}
+.main-card-font {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+.headline {
+  text-align: center;
+  margin-bottom: .5rem;
+}
+.sub-headline {
+  text-align: center;
+}
+.button-area {
+  text-align: center;
+}
+.button-style {
+  color: #fff;
+  background-color: #212529;
+  border: 0px;
+  border-radius: 5px;
+  padding: .375rem .75rem;
+}
+
+footer {
+  height: 293px;
+  color: white;
+  background-color: #19110b;
+}
+footer a{
+  color: white;
+  text-decoration: none;
+}
+.footer-secondline {
+  border-top: 1px solid #392d23;
+}
