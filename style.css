@@ -7,6 +7,7 @@
   border: 1px solid chocolate;
 }
 
+<<<<<<< HEAD
 main{
   /* display: flex; */
   flex-direction: column;
@@ -15,6 +16,8 @@ main{
 .main-image-container {
   /* height: 221px; */
 }
+=======
+>>>>>>> 55aa5ff9fb9ed37b3e380a93c3edcbea357492bb
 .main-image {
   width: 100vw;
 }
@@ -22,15 +25,21 @@ main{
   height: 120px;
   margin: 3rem 0;
 }
+<<<<<<< HEAD
 .main-card-container {
   height: 305px;
 
 }
+=======
+>>>>>>> 55aa5ff9fb9ed37b3e380a93c3edcbea357492bb
 .main-card-font {
   text-align: center;
   font-size: 2rem;
   margin-bottom: 0;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 55aa5ff9fb9ed37b3e380a93c3edcbea357492bb
 }
 .headline {
   text-align: center;
@@ -43,8 +52,14 @@ main{
   text-align: center;
 }
 .button-style {
+<<<<<<< HEAD
   color: white;
   background-color: black;
+=======
+  color: #fff;
+  background-color: #212529;
+  border: 0px;
+>>>>>>> 55aa5ff9fb9ed37b3e380a93c3edcbea357492bb
   border-radius: 5px;
   padding: .375rem .75rem;
 }
@@ -52,13 +67,18 @@ main{
 footer {
   height: 293px;
   color: white;
+<<<<<<< HEAD
   background-color: black;
+=======
+  background-color: #19110b;
+>>>>>>> 55aa5ff9fb9ed37b3e380a93c3edcbea357492bb
 }
 footer a{
   color: white;
   text-decoration: none;
 }
 .footer-secondline {
+<<<<<<< HEAD
   border-top: 1px solid white;
 }
 .footer-secondline-item-span {
@@ -67,3 +87,7 @@ footer a{
 .footer-secondline-item-a {
 
 }
+=======
+  border-top: 1px solid #392d23;
+}
+>>>>>>> 55aa5ff9fb9ed37b3e380a93c3edcbea357492bb
